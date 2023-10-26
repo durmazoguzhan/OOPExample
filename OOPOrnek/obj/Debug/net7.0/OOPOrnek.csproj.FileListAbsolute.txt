@@ -1,0 +1,14 @@
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\bin\Debug\net7.0\OOPOrnek.exe
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\bin\Debug\net7.0\OOPOrnek.deps.json
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\bin\Debug\net7.0\OOPOrnek.runtimeconfig.json
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\bin\Debug\net7.0\OOPOrnek.dll
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\bin\Debug\net7.0\OOPOrnek.pdb
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\OOPOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\OOPOrnek.AssemblyInfoInputs.cache
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\OOPOrnek.AssemblyInfo.cs
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\OOPOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\OOPOrnek.dll
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\refint\OOPOrnek.dll
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\OOPOrnek.pdb
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\OOPOrnek.genruntimeconfig.cache
+C:\Users\Oguzhan\source\repos\OOPOrnek\OOPOrnek\obj\Debug\net7.0\ref\OOPOrnek.dll
